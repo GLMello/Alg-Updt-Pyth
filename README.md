@@ -5,7 +5,7 @@
 <h2>Descrição</h2>
 Desenvolvendo um algoritmo responsável por atualizar um arquivo contendo IPs autorizados em uma rede, verificando seu acesso e removendo endereços banidos deste arquivo. <br> <br />
 
-**Observação:** Para melhor visualizar o código, foram utilizados IPs fictícios e um arquivo de exemplo. Mais tarde, no desenvolvimento, os IPs apresentados são substituídos por um arquivo para permitir escalabilidade. Esse arquivo também está contido neste repositório. <br>
+**Observação:** Para melhor visualizar o código, foram utilizados IPs fictícios e um arquivo de exemplo. Mais tarde, no desenvolvimento, os IPs apresentados são substituídos por um arquivo para permitir escalabilidade. <br>
 <h2>Passo a passo</h2>
 Comecei desenvolvendo um código curto que abriu o arquivo original e exibiu seu conteúdo, também realizei inserção de uma lista de IPs banidos fictícios:
 <br/>
