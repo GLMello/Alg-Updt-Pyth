@@ -1,4 +1,4 @@
-<h1>Algoritmo para atualizar arquivos de texto de acesso através do Python</h1>
+<h1>Algoritmo de Gerenciamento de Acesso por IP em Python</h1>
 
 ### You can also read this in: [English](https://github.com/GLMello/Pyth-Updt-Alg)
 
